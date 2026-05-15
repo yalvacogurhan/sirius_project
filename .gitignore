@@ -1,0 +1,20 @@
+# Python önbelleği
+__pycache__/
+*.py[cod]
+
+# Sanal Ortam
+venv/
+env/
+
+# Derleme ve Çıktı Dosyaları
+build/
+dist/
+*.spec
+
+# Ayar ve Şifre Dosyaları (Eğer API keylerini json veya txt'ye kaydediyorsan)
+*.json
+*.env
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
