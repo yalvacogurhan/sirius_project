@@ -222,7 +222,7 @@ Sirius lisans korumalıdır. İlk çalıştırmada giriş yapmanız gerekir.
 
 **Giriş anahtarı almak ve iletişim için:**
 
-📸 Instagram: [@yalvacogurhan](https://instagram.com/yalvacogurhan)
+📸 Instagram: [@otto_rot_wein31](https://www.instagram.com/otto_rot_wein31)
 
 > DM atın, birkaç saat içinde yanıt veririm. Ücretsiz deneme anahtarı mevcut.
 
