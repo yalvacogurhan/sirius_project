@@ -1,0 +1,10 @@
+﻿venv/
+*/venv/
+.env
+**/.env
+api_keys.json
+*keys.json
+__pycache__/
+*.pyc
+*.dll
+*.exe
